@@ -1,8 +1,7 @@
 from Gerador_CPF import geradorcpf as cpf
 from Gerador_CNPJ import geradorcnpj as cnpj
 print('1 => Gerador de CPF')
-print('2 => Gerador de CNPJ')
-print('')
+print('2 => Gerador de CNPJ\n')
 escolha = 0
 i = 0;
 
